@@ -6,10 +6,10 @@
   <title>Redireccionando a Discord...</title>
   <script>
     // Redirección extra por seguridad en navegadores que ignoran meta refresh
-    window.location.href = "https://discord.gg/BhrEBytEyV";
+    window.location.href = https://discord.gg/BhrEBytEyV;
   </script>
 </head>
 <body>
-  <p>Redirigiendo a <a href="https://discord.gg/BhrEBytEyV">Discord</a>...</p>
+  <p>Redirigiendo a <a href=https://discord.gg/BhrEBytEyV>Discord</a>...</p>
 </body>
 </html>
